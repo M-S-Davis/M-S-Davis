@@ -3,13 +3,11 @@
 
 - 🔭 I’m currently working on [Pair Jam](https://github.com/M-S-Davis/PairJam)
 
-- 🌱 I’m currently upgrading **my Python, React, and PostGRE knowledge.**
+- 🌱 I’m currently **upgrading my Python, React, and PostGRE knowledge. 💪**
 
-- 👨‍💻 All of my projects are available at [https://m-s-davis.github.io/portfolio/](https://m-s-davis.github.io/portfolio/)
+- 👨‍💻 Some of my projects are available at [https://m-s-davis.github.io/portfolio/](https://m-s-davis.github.io/portfolio/)
 
-- 💬 Ask me about **anything! I love to chat about code and music.**
-
-- 📫 How to reach me **davis.micheal.scott@gmail.com**
+- 💬 Ask me about **anything! I love to chat about code and music. 🎸**
 
 - ⚡ Fun fact **I dream of having my own sound-proof room and playing music as loud as I want, whenever I want.**
 
