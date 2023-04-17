@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently **upgrading my Python, React, and PostGRE knowledge. 💪**
 
-- 👨‍💻 Some of my projects are available at [https://m-s-davis.github.io/portfolio/](https://m-s-davis.github.io/portfolio/)
+<!-- - 👨‍💻 Some of my projects are available at [https://m-s-davis.github.io/portfolio/](https://m-s-davis.github.io/portfolio/) -->
 
 - 💬 Ask me about **anything! I love to chat about code and music. 🎸**
 
